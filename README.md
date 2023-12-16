@@ -32,7 +32,7 @@ Admin actions include adding/updating profiles and verifying biometric data for 
 ### Database View
 The system generates insightful attendance reports, detailing attendance data like who, when, and frequency. It offers attendance summary, course, and class reports, with customizable options. Users can share reports with students' parents as needed.
 
-![Screenshot_20230227_104105](https://github.com/VishalJagdale4/Multifarious-Attendance-System/assets/85816586/42b31d0c-5875-4c17-9de5-feef3dd3d3e6)
+![image](https://github.com/VishalJagdale4/Multifarious-Attendance-System/assets/85816586/bf96aabe-a6d6-4a9e-bb2f-3c21a8fe21ef)
 
 ### Activity Diagram
 
