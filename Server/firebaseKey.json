@@ -1,0 +1,16 @@
+// you can download file from your firebase project and add to this project, Below shown is just a test file which has required sets of attribute
+// you can replace existing content or you can replace file itself.
+//remove these comments first.
+
+{
+  "type": "xyz",
+  "project_id": "xyz",
+  "private_key_id": "xyz",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nxyz\n-----END PRIVATE KEY-----\n",
+  "client_email": "xyz",
+  "client_id": "xyz",
+  "auth_uri": "xyz",
+  "token_uri": "xyz",
+  "auth_provider_x509_cert_url": "xyz",
+  "client_x509_cert_url": "xyz"
+}
