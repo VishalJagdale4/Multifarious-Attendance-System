@@ -48,4 +48,4 @@ VGGFace algorithm for individual student recognition.
 
 ![Add a subheading](https://github.com/VishalJagdale4/Multifarious-Attendance-System/assets/85816586/16ad1ee3-6460-48ef-9638-7abc8104d2de)
 
-For more about the project you can read out this IEEE Paper of [Mu](https://ieeexplore.ieee.org/document/10142759)Multifarious Face Attendance System using Machine Learning and Deep Learning.
+For more about the project you can read out this IEEE Paper of [Multifarious Face Attendance System using Machine Learning and Deep Learning](https://ieeexplore.ieee.org/document/10142759).
